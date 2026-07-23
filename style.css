@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: rgb(26, 1, 41, 0.247);
+    background-color: rgba(164, 73, 218, 0.247);
     backdrop-filter: blur(15px);
     border-radius: 50px;
     box-shadow: 0 4px 10px rgb(184, 122, 7);
